@@ -1,13 +1,13 @@
 name: astro_refresh_indicator
-version: 1.0.3
+version: 1.0.4
 description: A Flutter package that implements a RefreshIndicator. This package is meant to be used along with pull_to_refresh package.
-homepage: https://github.com/Ilya-Korolev/astro_refresh_indicator
-repository: https://github.com/Ilya-Korolev/astro_refresh_indicator
-documentation: https://github.com/Ilya-Korolev/astro_refresh_indicator
-issue_tracker: https://github.com/Ilya-Korolev/astro_refresh_indicator/issues
+homepage: https://github.com/ilia-Korolev/astro_refresh_indicator
+repository: https://github.com/ilia-Korolev/astro_refresh_indicator
+documentation: https://github.com/ilia-Korolev/astro_refresh_indicator
+issue_tracker: https://github.com/ilia-Korolev/astro_refresh_indicator/issues
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
   flutter: ">=2.0.0"
 
 dependencies:

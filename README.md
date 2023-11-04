@@ -18,12 +18,11 @@ A Flutter package that implements a `RefreshIndicator`. This package is meant to
 Add the following lines to the pubspec.yaml:
 ```yaml
 dependencies:
-  astro_refresh_indicator: ^1.0.3
+  astro_refresh_indicator: ^1.0.4
   pull_to_refresh: ^2.0.0
 ```
 
 ## 🚀 Usage
-
 
 ```dart
   final RefreshController _refreshController = RefreshController();

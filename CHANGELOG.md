@@ -1,3 +1,8 @@
+## 1.0.4
+* refactor: upgrade dependencies
+* docs: update github links
+* docs: update example
+
 ## 1.0.3
 * refactor: upgrade dependencies
 * refactor: resolve analysis warnings
